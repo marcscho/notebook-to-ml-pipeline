@@ -1,0 +1,18 @@
+
+
+POST http://fc93affa-d536-4a76-8e88-4eac4ae9e10a.westeurope.azurecontainer.io/score HTTP/1.1
+content-type: application/json
+
+{
+    "data": [{
+    "Age": 39,
+    "Sex": "female",
+    "Job": 1,
+    "Housing": "own",
+    "Saving accounts": "moderate",
+    "Checking account": "little",
+    "Credit amount": 5000,
+    "Duration": 60,
+    "Purpose": "radio/TV"
+  }]
+}

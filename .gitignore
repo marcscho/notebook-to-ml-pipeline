@@ -1,4 +1,5 @@
 /*.csv
 /*.pkl
+*.yml
 /.vscode
-0_register_secret.ipynb
+0_access_ws.ipynb
